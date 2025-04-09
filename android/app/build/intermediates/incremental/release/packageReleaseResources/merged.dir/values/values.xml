@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">130435206637</string>
+    <string name="google_api_key" translatable="false">AIzaSyC49w3vDBe4g784mSMRaYBbTt3pibJGvcs</string>
+    <string name="google_app_id" translatable="false">1:130435206637:android:9c4568c2acba3d7dd62be4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC49w3vDBe4g784mSMRaYBbTt3pibJGvcs</string>
+    <string name="google_storage_bucket" translatable="false">nail-designer-app.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nail-designer-app</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
