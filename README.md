@@ -1,16 +1,29 @@
-# nail_designer_app
+# nail-designer-app
 
-A new Flutter project.
+Aplicativo de Agendamento Online para Nail Designer.
 
-## Getting Started
+## Sobre
 
-This project is a starting point for a Flutter application.
+Este app foi desenvolvido em Flutter com o objetivo de facilitar o agendamento de horários entre profissionais de unhas e seus clientes, oferecendo uma interface moderna e funcional tanto para o administrador quanto para os usuários.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Autenticação de usuários (cliente e administrador)
+- Agendamento com seleção de serviços e horários
+- Tela de perfil e visualização de agendamentos
+- Gerenciamento de serviços, horários e usuários (admin)
+- Firebase como backend (Firestore, Auth, Storage)
+- Layout adaptado para Android
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias
+
+- Flutter
+- Firebase (Auth, Firestore, Storage, App Check)
+- Dart
+
+## Instruções
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/paulovelosaa/nail-designer-app.git
+   cd nail-designer-app
